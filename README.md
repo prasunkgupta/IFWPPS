@@ -30,7 +30,7 @@ Installation
 ===
 
 + Install QGIS
-+ Copy the .py files in the folder "C:/Users/ *username* /.qgis2/processing/scripts/IFWPPS"
++ Copy the .py and .py.help files in the folder "C:/Users/ *username* /.qgis2/processing/scripts/IFWPPS"
 
 
 Help / Manuals
