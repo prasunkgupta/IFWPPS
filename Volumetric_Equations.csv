@@ -1,0 +1,20 @@
+NAME,VOLUME_EXPONENT,CONSTANT,D,D^2,D^3,SQRT
+Adina cordifolia,1,0.08507,0.19669,7.16812,,
+Anogeissus latifolia,1,0.13928,-2.87067,20.22404,-13.80572,
+Bombax ceiba,1,0.02834,,4.68381,,
+Boswellia serrata,1,0.36432,,9.48471,,-1.32768
+Bridelia retusa,0.5,0.1162,4.12711,,,-1.08508
+Bursera serrata,1,-0.09144,1.48588,-5.53172,24.04851,
+Dalbergia latifolia,1,-0.00965,0.58546,-2.5605,24.342125,
+Diospyros tomentosa,0.5,0.06728,4.06351,,,-0.99816
+Lagerstroemia parviflora,1,0.07199,-1.25923,9.28416,,
+Lannea coromandelica,1,-0.01071,-0.66528,9.54478,-4.58876,
+Madhuca indica,1,0.10423,-1.38429,8.39379,,
+Miscellaneous species,0.5,0.06063,3.43666,,,-0.7557
+Mitragyna parviflora,1,0.08444,-1.26801,,8.75274,
+Pterocarpus marsupium,0.5,-0.16276,2.82002,,,0.04034
+Shorea robusta,0.5,0.19994,4.57179,,,-1.56823
+Syzigium cumini,0.5,0.30706,5.12731,,,-2.0987
+Tectona grandis,1,0.1657,-1.1235,8.0855,,
+Terminalia belerica,1,-0.14823,2.44138,-6.86434,18.05444,
+Terminalia tomentosa,1,0.05061,-1.11994,8.77839,,
