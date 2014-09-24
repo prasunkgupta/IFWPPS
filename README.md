@@ -21,16 +21,22 @@ Author is indebted to all scientists of IIRS who have contributed to the project
 Version
 ===
 
-1.0 - September 24, 2014
+1.0 (alpha) - September 24, 2014
+
+The toolbox has been tested on QGIS 2.4.0 in Windows 7 (64 bit). 
 
 
 Installation
 ===
 
 + Install QGIS
-+ Copy the .py files in the folder C:\Users\*italics*username*italics*\.qgis2\processing\scripts\IFWPPS
++ Copy the .py files in the folder "C:/Users/ *username* /.qgis2/processing/scripts/IFWPPS"
 
 
-Manuals
+Help / Manuals
 ===
-Available as  IFWPPS Installation Manual v*.docx  and  IFWPPS User Manual v*.docx
+
+Included in master
+
++ IFWPPS Installation Manual,  and
++ IFWPPS User Manual
