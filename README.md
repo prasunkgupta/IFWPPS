@@ -28,7 +28,7 @@ Installation
 ===
 
 + Install QGIS
-+ Copy the .py files in the folder <C:\Users\*italics*username*italics*\.qgis2\processing\scripts\IFWPPS>
++ Copy the .py files in the folder C:\Users\*italics*username*italics*\.qgis2\processing\scripts\IFWPPS
 
 
 Manuals
